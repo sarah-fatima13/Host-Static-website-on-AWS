@@ -57,6 +57,8 @@ Finally, I tested the website using the custom domain. This confirmed that S3 ho
  
 
  <img width="948" height="932" alt="Image" src="https://github.com/user-attachments/assets/28822ea2-0c76-46a4-ac6e-88d47c4229b3" />
+
+ 
  # Note:
 All AWS resources used for this project were deleted after completion to avoid any unintended charges, as the project was created using the AWS Free Tier.
   
