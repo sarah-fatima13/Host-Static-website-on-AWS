@@ -17,6 +17,7 @@ Created the static website content using HTML. Since the website does not requir
 
   # 2. Create an S3 Bucket & Upload Files
 Created an Amazon S3 bucket to store the website files. The bucket acts as the storage layer for the website, and all static files were uploaded to this bucket so they can be served to users.
+
 <img width="1675" height="991" alt="Image" src="https://github.com/user-attachments/assets/ada5698d-4e4d-415a-8fa0-dabcd6f19e83" />
 
   # 3. Configure S3 for Static Website Hosting
