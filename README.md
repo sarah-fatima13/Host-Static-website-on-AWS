@@ -1,1 +1,4 @@
 # Host-Static-website-on-AWS
+# Project Overview:
+The cloud is perfect for hosting static websites that require no server-side processing.This AWS project hosts a static HTML website on AWS using a secure and scalable cloud architecture. The website contains only HTML files and does not require any backend or server-side processing.
+The website is stored in an Amazon S3 bucket configured for static website hosting. Amazon CloudFront is used to deliver content efficiently through a global content delivery network, ensuring low latency and high availability. A custom domain registered with GoDaddy is integrated using Amazon Route 53, and HTTPS security is enabled using AWS Certificate Manager (ACM). This architecture ensures fast content delivery, secure access, and reliable availability, making it suitable for hosting simple static websites on AWS.
